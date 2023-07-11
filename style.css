@@ -106,10 +106,17 @@ text-decoration-line: underline;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin: 50px 240px;
     padding: 40px 0;
 }
-.
-.
+.deals{
+    background: rgba(229, 84, 115, 0.05);
+}
+.flower-deals{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    margin: 0 auto;
+}
 
