@@ -147,7 +147,10 @@ justify-content: space-around;
 
 /*latest-deals section*/
 .latest-deals{
-
+background-image: url("./flower\ assets/Rectangle 9.png");
+background-repeat: no-repeat;
+width: 1440px;
+margin: 0 auto;
 }
 .input-area{
     display: flex;
@@ -157,3 +160,10 @@ justify-content: space-around;
 }
 
 /*footer section */
+.footer{
+    background-color: #111010
+}
+.footer h1, .content-description, .cp-right{
+    color: white;
+}
+
