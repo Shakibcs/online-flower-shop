@@ -156,6 +156,9 @@ p.deals-description{
         font-weight: 400;
         width: 500px;
 }
+.off{
+    color: #272727;
+}
 
 /* instragram section */
 .instragram{
@@ -187,6 +190,16 @@ p.deals-description{
     align-items: center;
     justify-content: space-even;
     margin:0 auto;
+}
+input[type="email"] {
+    display: block;
+    margin-bottom: 25px;
+    padding: 30px 35px;
+    color: #ebe5e5;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 100%;
 }
 
 /*footer section */
